@@ -1,0 +1,14 @@
+[patient]  x
+[date] 02/01/2024
+[time] 19:52:09
+[samplingfreq] 2048
+[nbsegments] 1
+[enabled] 1
+[nbsamples] 163841
+[segmentsize] 163841
+[segmentInitialTimes] 0.0
+[nbchannels] 3
+[channelnames] :
+r_RMF ------
+Pop_2 ------
+t ------
